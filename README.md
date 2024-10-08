@@ -14,9 +14,9 @@ However, I have some interest in software development, game development, project
 
 
 ```csharp
-if (you.haveIdeas)
+if (you.haveIdeas())
 {
-   Console.WriteLine("Feel free to reach out and let's create some awesome projects together ☆彡");
+   console.log("Feel free to reach out and let's create some awesome projects together ☆彡");
 }
 ```
 
