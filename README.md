@@ -5,7 +5,7 @@ I have some interest in software development, game development, project/product 
 ```csharp
 if (you.haveIdeas())
 {
-   console.log("Feel free to reach out and let's create some awesome projects together ☆彡");
+   Console.WriteLine("Feel free to reach out and let's create some awesome projects together ☆彡");
 }
 ```
 
