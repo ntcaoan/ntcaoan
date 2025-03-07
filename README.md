@@ -1,6 +1,6 @@
 # Hello, Github! I'm Anna🧍🏻‍♀️
 
-I have some interest in software development, game development, project/product management, UI/UX design, and SAP system administration ( ͡° ͜ʖ ͡°)
+I have some interest in software development, game development, project/product management, UI/UX design, and SAP system administration
 
 ```csharp
 if (you.haveIdeas())
